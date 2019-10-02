@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DipakDhamne</string>
+    <string name="no_internet">Please check yout connection status and try again</string>
+</resources>
